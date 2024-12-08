@@ -1,8 +1,8 @@
 [
     {
-        "title": "Posting Blog Pertama",
-        "image": "image1.jpg",
-        "content": "<br><br>Ini adalah konten dari posting blog pertama.<br><br>Gambar:<br><img src='gambar1.jpg'><br><br>Link: <a href='https://example.com'>Kunjungi website</a>"
+        "title": "1. TUTORIAL RUN BOT DI TERMUX",
+        "image": "termux.jpg",
+        "content": "<br><br>Disini kita akan bahas mengenai cara run bot di termux, ya di termux dapat menjalankan bot disaat panel PTERODACTYL kita tidak ada atau sedang gangguan.<br><br>Gambar:<br><img src='gambar1.jpg'><br><br>Link: <a href='https://example.com'>Kunjungi website</a>"
     },
     {
         "title": "Posting Blog Kedua",
