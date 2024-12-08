@@ -1,7 +1,7 @@
 [
     {
         "title": "1. TUTORIAL RUN BOT DI TERMUX",
-        "image": "termux.jpg",
+        "image": "termux.png",
         "content": "<br><br>Disini kita akan bahas mengenai cara run bot di termux, ya di termux dapat menjalankan bot disaat panel PTERODACTYL kita tidak ada atau sedang gangguan.<br><br>Langsung saja untuk awal command nya<br>apt update<br>apt upgrade<br>pkg update && pkg upgrade<br>pkg install bash<br>pkg install libwebp<br>pkg install git -y<br>pkg install nodejs -y<br>pkg install ffmpeg -y<br>pkg install wget<br>pkg install imagemagick -y<br>pkg install yarn<br>pkg install mc<br>pkg install git<br>pkg install wget<br>pkg install ffmpeg<br>pkg install nodejs<br>pkg install npm<br>cd namabotlu<br>npm install<br>npm start<br><br><br>Link Join To Channel WhatsApp: <a href='https://whatsapp.com/channel/0029Var4fEj2phHMGe5p8B1S'>Kunjungi website</a>"
     }
 ]
