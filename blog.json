@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Posting Blog Pertama",
+        "image": "image1.jpg",
+        "content": "<br><br>Ini adalah konten dari posting blog pertama.<br><br>Gambar:<br><img src='gambar1.jpg'><br><br>Link: <a href='https://example.com'>Kunjungi website</a>"
+    },
+    {
+        "title": "Posting Blog Kedua",
+        "image": "image2.jpg",
+        "content": "Ini adalah konten dari posting blog kedua.<br><br>Gambar:<br><img src='gambar2.jpg'><br><br>Link: <a href='https://example.com'>Kunjungi website</a>"
+    }
+]
